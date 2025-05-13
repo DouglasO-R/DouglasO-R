@@ -7,6 +7,7 @@
 - Sou formado em analise e desenvolvimento de software pela universidade estacio de sa no ano de 12/2018.
 - Conclui Bootcamp para Desenvolvedor NODEJS IGTI em 10/2021 [certificado](https://drive.google.com/file/d/1_hHLgtk_nxmDP6e8TuKZ_K822F0fhy7T/view?usp=sharing).
 - Conclui a jornada de treinamento na trilha Node.js do programa Ignite da Rocketseat em 07/2022 [certificado](https://drive.google.com/file/d/1WYQUqoLr76xrHovaG2FPDARb7KUQnurW/view?usp=sharing)
+- Conclui Impulso Javascript Evolution da Dio em 10/2022 [certificado](https://drive.google.com/file/d/1WpdO6g89OStrG6AxOAcU98bidOu2HEN_/view?usp=sharing)
 
 
 
